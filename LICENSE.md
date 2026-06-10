@@ -1,4 +1,4 @@
-# 
+# Automatique Mem0 scripts. Avec graphes de connaissances et ingénierie de prompts — optimisé pour des performances et une efficacité maximales.
 
 
 
